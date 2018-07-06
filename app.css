@@ -1,0 +1,11 @@
+body {
+  background: #d2e1dd; }
+
+.boxs {
+  height: 100px;
+  width: 100px;
+  border-radius: 30px;
+  box-shadow: 0 0 10px #333;
+  background: #036; }
+
+/*# sourceMappingURL=app.css.map */
